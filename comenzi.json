@@ -1,0 +1,93 @@
+[
+  {
+    "Cod_Comanda": "CM001",
+    "Cod_Client": "C001",
+    "Client": "John Doe",
+    "Produse": [
+      {
+        "Cod_Produs": "P002",
+        "Denumire_Produs": "Telefon Samsung S21",
+        "Cantitate_Comandata": 2,
+        "UM": "BUC",
+        "Pret_Unitar_Vanzare": 3500,
+        "Valoare": 7000
+      },
+      {
+        "Cod_Produs": "P007",
+        "Denumire_Produs": "Laptop HP Spectre",
+        "Cantitate_Comandata": 1,
+        "UM": "BUC",
+        "Pret_Unitar_Vanzare": 4800,
+        "Valoare": 4800
+      }
+    ]
+  },
+  {
+    "Cod_Comanda": "CM002",
+    "Cod_Client": "C003",
+    "Client": "Alex Wong",
+    "Produse": [
+      {
+        "Cod_Produs": "P003",
+        "Denumire_Produs": "Televizor LG 55\"",
+        "Cantitate_Comandata": 3,
+        "UM": "BUC",
+        "Pret_Unitar_Vanzare": 2500,
+        "Valoare": 7500
+      },
+      {
+        "Cod_Produs": "P012",
+        "Denumire_Produs": "Smartwatch Samsung",
+        "Cantitate_Comandata": 2,
+        "UM": "BUC",
+        "Pret_Unitar_Vanzare": 750,
+        "Valoare": 1500
+      }
+    ]
+  },
+  {
+    "Cod_Comanda": "CM003",
+    "Cod_Client": "C005",
+    "Client": "Mark Chen",
+    "Produse": [
+      {
+        "Cod_Produs": "P011",
+        "Denumire_Produs": "Boxe WiFi",
+        "Cantitate_Comandata": 4,
+        "UM": "SET",
+        "Pret_Unitar_Vanzare": 160,
+        "Valoare": 640
+      }
+    ]
+  },
+  {
+    "Cod_Comanda": "CM004",
+    "Cod_Client": "C010",
+    "Client": "Sarah Wu",
+    "Produse": [
+      {
+        "Cod_Produs": "P010",
+        "Denumire_Produs": "Camera foto Nikon",
+        "Cantitate_Comandata": 3,
+        "UM": "BUC",
+        "Pret_Unitar_Vanzare": 1100,
+        "Valoare": 3300
+      }
+    ]
+  },
+  {
+    "Cod_Comanda": "CM005",
+    "Cod_Client": "C012",
+    "Client": "Lucy Wang",
+    "Produse": [
+      {
+        "Cod_Produs": "P013",
+        "Denumire_Produs": "Laptop Lenovo",
+        "Cantitate_Comandata": 2,
+        "UM": "BUC",
+        "Pret_Unitar_Vanzare": 4100,
+        "Valoare": 8200
+      }
+    ]
+  }
+]

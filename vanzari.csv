@@ -1,0 +1,31 @@
+﻿Cod Client,Client,Cod Produs,Denumire Produs,Cantitate Comandata,UM,Pret Unitar Vanzare,Valoare,Cod Furnizor,Furnizor
+C001,John Doe,P002,Telefon Samsung S21,2,BUC,3500,7000,F002,Samsung
+C002,Jane Smith,P008,Telefon iPhone 12,1,BUC,3800,3800,F003,Apple
+C003,Alex Wong,P003,"Televizor LG 55""",3,BUC,2500,7500,F004,LG
+C004,Emma Lee,P006,Smartwatch Apple,2,BUC,800,1600,F003,Apple
+C005,Mark Chen,P011,Boxe WiFi,4,SET,160,640,F005,Sony
+C006,Laura Liu,P014,Telefon Huawei P30,1,BUC,2600,2600,F006,Huawei
+C007,Eric Wang,P001,Laptop Dell XPS 15,1,BUC,5200,5200,F001,Dell
+C008,Lily Tan,P009,Televizor Samsung,2,BUC,2900,5800,F007,Samsung
+C009,Alex Lin,P015,"Televizor Sony 65""",1,BUC,3500,3500,F008,Sony
+C010,Sarah Wu,P012,Smartwatch Samsung,3,BUC,750,2250,F009,Samsung
+C011,Mike Chen,P004,Camera foto Canon,1,BUC,1350,1350,F010,Canon
+C012,Lucy Wang,P013,Laptop Lenovo,2,BUC,4100,8200,F011,Lenovo
+C013,Max Liu,P005,Boxe Bluetooth,3,SET,170,510,F012,Logitech
+C014,Grace Lin,P010,Camera foto Nikon,2,BUC,1100,2200,F010,Nikon
+C015,Jason Wu,P007,Laptop HP Spectre,1,BUC,4800,4800,F001,HP
+C016,Alex Chen,P002,Telefon Samsung S21,3,BUC,3500,10500,F002,Samsung
+C017,Lily Wang,P008,Telefon iPhone 12,2,BUC,3800,7600,F003,Apple
+C018,Mike Liu,P003,"Televizor LG 55""",1,BUC,2500,2500,F004,LG
+C019,Jane Chen,P006,Smartwatch Apple,3,BUC,800,2400,F003,Apple
+C020,Alex Lee,P011,Boxe WiFi,2,SET,160,320,F005,Sony
+C021,Lucy Wu,P014,Telefon Huawei P30,1,BUC,2600,2600,F006,Huawei
+C022,John Lin,P001,Laptop Dell XPS 15,2,BUC,5200,10400,F001,Dell
+C023,Emma Wang,P009,Televizor Samsung,1,BUC,2900,2900,F007,Samsung
+C024,Eric Liu,P015,"Televizor Sony 65""",3,BUC,3500,10500,F008,Sony
+C025,Sarah Lin,P012,Smartwatch Samsung,2,BUC,750,1500,F009,Samsung
+C026,Mark Wu,P004,Camera foto Canon,1,BUC,1350,1350,F010,Canon
+C027,Grace Chen,P013,Laptop Lenovo,2,BUC,4100,8200,F011,Lenovo
+C028,Max Wang,P005,Boxe Bluetooth,3,SET,170,510,F012,Logitech
+C029,Lily Liu,P010,Camera foto Nikon,1,BUC,1100,1100,F010,Nikon
+C030,Jason Lin,P007,Laptop HP Spectre,2,BUC,4800,9600,F001,HP
